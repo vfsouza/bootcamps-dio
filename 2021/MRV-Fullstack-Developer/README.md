@@ -6,8 +6,6 @@ O Bootcamp MRV Fullstack Developer está pronto especialmente para você! Nele v
 
 #
 
----
-
 ## Projetos desenvolvidos
 
 -
@@ -15,8 +13,6 @@ O Bootcamp MRV Fullstack Developer está pronto especialmente para você! Nele v
 -
 
 #
-
----
 
 # Certficiado
 

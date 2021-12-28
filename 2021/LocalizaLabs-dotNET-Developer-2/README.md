@@ -6,8 +6,6 @@ O Bootcamp LocalizaLabs .NET Developer #2, faz parte do programa Órbi Academy T
 
 #
 
----
-
 ## Projetos desenvolvidos
 
 -
@@ -15,8 +13,6 @@ O Bootcamp LocalizaLabs .NET Developer #2, faz parte do programa Órbi Academy T
 -
 
 #
-
----
 
 # Certficiado
 

@@ -6,8 +6,6 @@ O Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das princ
 
 #
 
----
-
 ## Projetos desenvolvidos
 
 -
@@ -15,8 +13,6 @@ O Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das princ
 -
 
 #
-
----
 
 # Certficiado
 
