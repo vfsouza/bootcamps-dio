@@ -10,8 +10,6 @@ Respositório destinado as aulas, exercícios e projetos dos Bootcamps em que eu
 
 #
 
----
-
 ### Redes Sociais:
 
 #### [LinkedIn](https://www.linkedin.com/in/vinicius-ferreira-de-souza-973b66209/)
