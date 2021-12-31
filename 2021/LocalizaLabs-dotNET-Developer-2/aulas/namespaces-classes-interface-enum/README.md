@@ -1,5 +1,4 @@
 # Namespace
-
 - Usados para organização de classes
 - Para acessar outros namespaces usamos `using (nome do namespace)` ou colocarmos o namespace antes de chamarmos uma classe desse namespace, `System.Console.Readline()`
 
@@ -14,7 +13,6 @@
 #
 
 # Classes
-
 Uma classe é um projeto, uma blueprint para se criar um objeto. Ela possui **atributos** e **métodos**, que são, respectivamente, características daquele objeto e ações que ele pode fazer. Um exemplo disso é uma pessoa. A pessoas possui atributos, como idade, nome e altura, e métodos, como andar, correr e falar.
 
       class Class {
@@ -27,7 +25,6 @@ Uma classe é um projeto, uma blueprint para se criar um objeto. Ela possui **at
 #
 
 # Interface
-
 É um molde para as classes que a tiverem seguir. A classe deve implementar todos os métodos da interface.
 
       interface Interface {
@@ -37,7 +34,6 @@ Uma classe é um projeto, uma blueprint para se criar um objeto. Ela possui **at
 #
 
 # Enum
-
 É um grupo de constantes enumeradas s partir do 0 e aumentado de 1 em 1.
 
       enum Enum {
