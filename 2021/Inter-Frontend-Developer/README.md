@@ -4,15 +4,14 @@ O Bootcamp Inter Frontend Developer você aprenderá sobre React - uma das princ
 
 ## Feedback
 
-#
-
 ## Projetos desenvolvidos
 
 -
 -
--
 
-#
+## Anotações
+
+[Clique aqui](https://button-saw-e1c.notion.site/Inter-Frontend-Developer-6e77875f427b40f486ee0a50cce059bc) para ver as anotações do Bootcamp Inter Frontend Developer.
 
 # Certficiado
 
