@@ -1,0 +1,15 @@
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\bin\Debug\net6.0\classes_abstratas_poo.exe
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\bin\Debug\net6.0\classes_abstratas_poo.deps.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\bin\Debug\net6.0\classes_abstratas_poo.runtimeconfig.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\bin\Debug\net6.0\classes_abstratas_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\bin\Debug\net6.0\ref\classes_abstratas_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\bin\Debug\net6.0\classes_abstratas_poo.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\classes_abstratas_poo.csproj.AssemblyReference.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\classes_abstratas_poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\classes_abstratas_poo.AssemblyInfoInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\classes_abstratas_poo.AssemblyInfo.cs
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\classes_abstratas_poo.csproj.CoreCompileInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\classes_abstratas_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\ref\classes_abstratas_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\classes_abstratas_poo.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_abstratas_poo\classes_abstratas_poo\obj\Debug\net6.0\classes_abstratas_poo.genruntimeconfig.cache

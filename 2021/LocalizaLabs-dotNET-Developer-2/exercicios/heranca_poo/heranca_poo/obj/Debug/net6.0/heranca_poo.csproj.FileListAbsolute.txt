@@ -1,0 +1,15 @@
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\bin\Debug\net6.0\heranca_poo.exe
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\bin\Debug\net6.0\heranca_poo.deps.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\bin\Debug\net6.0\heranca_poo.runtimeconfig.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\bin\Debug\net6.0\heranca_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\bin\Debug\net6.0\ref\heranca_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\bin\Debug\net6.0\heranca_poo.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\heranca_poo.csproj.AssemblyReference.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\heranca_poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\heranca_poo.AssemblyInfoInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\heranca_poo.AssemblyInfo.cs
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\heranca_poo.csproj.CoreCompileInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\heranca_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\ref\heranca_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\heranca_poo.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\heranca_poo\heranca_poo\obj\Debug\net6.0\heranca_poo.genruntimeconfig.cache

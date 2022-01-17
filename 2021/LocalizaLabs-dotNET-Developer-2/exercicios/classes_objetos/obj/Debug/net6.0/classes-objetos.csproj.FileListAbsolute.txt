@@ -1,0 +1,15 @@
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\bin\Debug\net6.0\classes-objetos.exe
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\bin\Debug\net6.0\classes-objetos.deps.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\bin\Debug\net6.0\classes-objetos.runtimeconfig.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\bin\Debug\net6.0\classes-objetos.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\bin\Debug\net6.0\ref\classes-objetos.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\bin\Debug\net6.0\classes-objetos.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\classes-objetos.csproj.AssemblyReference.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\classes-objetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\classes-objetos.AssemblyInfoInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\classes-objetos.AssemblyInfo.cs
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\classes-objetos.csproj.CoreCompileInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\classes-objetos.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\ref\classes-objetos.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\classes-objetos.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes-objetos\obj\Debug\net6.0\classes-objetos.genruntimeconfig.cache

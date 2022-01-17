@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "abstracao_poo/1.0.0": {
+        "runtime": {
+          "abstracao_poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abstracao_poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

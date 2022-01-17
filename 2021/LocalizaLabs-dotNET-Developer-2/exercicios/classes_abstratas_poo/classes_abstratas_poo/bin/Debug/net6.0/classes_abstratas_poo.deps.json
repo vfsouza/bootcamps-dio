@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "classes_abstratas_poo/1.0.0": {
+        "runtime": {
+          "classes_abstratas_poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classes_abstratas_poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

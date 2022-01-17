@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = app
-build_property.ProjectDir = d:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\namespaces-classes-interface-enum\codigos\app\
+build_property.RootNamespace = classes_objetos
+build_property.ProjectDir = d:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\classes_objetos\

@@ -1,0 +1,15 @@
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\bin\Debug\net6.0\polimorfismo_poo.exe
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\bin\Debug\net6.0\polimorfismo_poo.deps.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\bin\Debug\net6.0\polimorfismo_poo.runtimeconfig.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\bin\Debug\net6.0\polimorfismo_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\bin\Debug\net6.0\ref\polimorfismo_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\bin\Debug\net6.0\polimorfismo_poo.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\polimorfismo_poo.csproj.AssemblyReference.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\polimorfismo_poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\polimorfismo_poo.AssemblyInfoInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\polimorfismo_poo.AssemblyInfo.cs
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\polimorfismo_poo.csproj.CoreCompileInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\polimorfismo_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\ref\polimorfismo_poo.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\polimorfismo_poo.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\polimorfismo_poo\polimorfismo_poo\obj\Debug\net6.0\polimorfismo_poo.genruntimeconfig.cache
