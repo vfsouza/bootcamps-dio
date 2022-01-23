@@ -1,0 +1,15 @@
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\bin\Debug\net6.0\arquivo.exe
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\bin\Debug\net6.0\arquivo.deps.json
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\bin\Debug\net6.0\arquivo.runtimeconfig.json
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\bin\Debug\net6.0\arquivo.dll
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\bin\Debug\net6.0\ref\arquivo.dll
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\bin\Debug\net6.0\arquivo.pdb
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\arquivo.csproj.AssemblyReference.cache
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\arquivo.AssemblyInfoInputs.cache
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\arquivo.AssemblyInfo.cs
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\arquivo.csproj.CoreCompileInputs.cache
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\arquivo.dll
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\ref\arquivo.dll
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\arquivo.pdb
+C:\Users\vinif\Documents\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\arquivo\arquivo\obj\Debug\net6.0\arquivo.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vinif\\Documents\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\polimorfismo_poo\\polimorfismo_poo\\polimorfismo_poo.csproj",
-      "projectName": "polimorfismo_poo",
-      "projectPath": "C:\\Users\\vinif\\Documents\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\polimorfismo_poo\\polimorfismo_poo\\polimorfismo_poo.csproj",
+      "projectUniqueName": "C:\\Users\\vinif\\Documents\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\arquivo\\arquivo\\arquivo.csproj",
+      "projectName": "arquivo",
+      "projectPath": "C:\\Users\\vinif\\Documents\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\arquivo\\arquivo\\arquivo.csproj",
       "packagesPath": "C:\\Users\\vinif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vinif\\Documents\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\polimorfismo_poo\\polimorfismo_poo\\obj\\",
+      "outputPath": "C:\\Users\\vinif\\Documents\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\arquivo\\arquivo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinif\\AppData\\Roaming\\NuGet\\NuGet.Config"
