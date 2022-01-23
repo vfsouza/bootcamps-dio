@@ -1,0 +1,15 @@
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\bin\Debug\net6.0\construtores.exe
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\bin\Debug\net6.0\construtores.deps.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\bin\Debug\net6.0\construtores.runtimeconfig.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\bin\Debug\net6.0\construtores.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\bin\Debug\net6.0\ref\construtores.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\bin\Debug\net6.0\construtores.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\construtores.csproj.AssemblyReference.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\construtores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\construtores.AssemblyInfoInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\construtores.AssemblyInfo.cs
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\construtores.csproj.CoreCompileInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\construtores.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\ref\construtores.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\construtores.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\construtores\construtores\obj\Debug\net6.0\construtores.genruntimeconfig.cache

@@ -31,7 +31,7 @@ namespace arquivo.models
             try {
                 Directory.Delete(caminho);
                 System.Console.WriteLine($"Diretorio {caminho} deletado com sucesso!");
-            } catch (Exception e) {
+            } catch (Exception) {
                 System.Console.WriteLine("Diretorio não pode ser apagado por não estar vazio. Deseja deletar mesmo assim? (S/N)");
                 string resp = System.Console.ReadLine();
                 if (resp == "S") {
@@ -68,5 +68,36 @@ namespace arquivo.models
 
             txt.Close();
         }
+
+        public static void lerTxt(string caminho) {
+            string[] str = File.ReadAllLines(caminho);
+
+            foreach (string linha in str) {
+                System.Console.WriteLine(linha);
+            }
+        }
+
+        public static void lerTxtStream(string caminho) {
+            string linha = string.Empty;
+
+            using(StreamReader stream = File.OpenText(caminho)) {
+                while((linha = stream.ReadLine()) != null) {
+                    System.Console.WriteLine(linha);
+                }
+            }
+        }
+
+        public static void moverArq(string caminho, string destino) {
+            File.Move(caminho, destino);
+        }
+
+        public static void copiarArq(string caminho, string destino) {
+            File.Copy(caminho, destino);
+        }
+
+        public static void deletarArq(string caminho) {
+            File.Delete(caminho);
+        }
+
     }
 }

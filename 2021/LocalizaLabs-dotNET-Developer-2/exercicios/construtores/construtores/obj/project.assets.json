@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\arquivo\\arquivo\\arquivo.csproj",
-      "projectName": "arquivo",
-      "projectPath": "D:\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\arquivo\\arquivo\\arquivo.csproj",
+      "projectUniqueName": "D:\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\construtores\\construtores\\construtores.csproj",
+      "projectName": "construtores",
+      "projectPath": "D:\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\construtores\\construtores\\construtores.csproj",
       "packagesPath": "C:\\Users\\vinif\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\arquivo\\arquivo\\obj\\",
+      "outputPath": "D:\\Projetos\\bootcamps-dio\\2021\\LocalizaLabs-dotNET-Developer-2\\exercicios\\construtores\\construtores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vinif\\AppData\\Roaming\\NuGet\\NuGet.Config",
