@@ -56,5 +56,17 @@ namespace arquivo.models
 
             txt.Close();
         }
+
+        public static void addTxt(string caminho, string conteudo) {
+            File.AppendAllText(caminho, conteudo);
+        }
+
+        public static void addTxtStream(string caminho, string conteudo) {
+            StreamWriter txt = File.AppendText(caminho);
+
+            txt.Write(conteudo);
+
+            txt.Close();
+        }
     }
 }

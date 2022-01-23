@@ -41,7 +41,8 @@ namespace arquivo {
                break;
 
             case 7: 
-
+               Arquivos.addTxt(Path.Combine(caminho, "teste.txt"), "Vinicius é lindo demais c ta doido");
+               Arquivos.addTxtStream(Path.Combine(caminho, "teste1.txt"), "Vinicius é lindo demais c ta doido");
                break;
 
             case 8: 
