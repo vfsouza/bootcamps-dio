@@ -1,0 +1,15 @@
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\bin\Debug\net6.0\get_set.exe
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\bin\Debug\net6.0\get_set.deps.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\bin\Debug\net6.0\get_set.runtimeconfig.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\bin\Debug\net6.0\get_set.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\bin\Debug\net6.0\ref\get_set.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\bin\Debug\net6.0\get_set.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\get_set.csproj.AssemblyReference.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\get_set.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\get_set.AssemblyInfoInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\get_set.AssemblyInfo.cs
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\get_set.csproj.CoreCompileInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\get_set.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\ref\get_set.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\get_set.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\get_set\get_set\obj\Debug\net6.0\get_set.genruntimeconfig.cache

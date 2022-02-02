@@ -1,0 +1,15 @@
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\bin\Debug\net6.0\delegate.exe
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\bin\Debug\net6.0\delegate.deps.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\bin\Debug\net6.0\delegate.runtimeconfig.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\bin\Debug\net6.0\delegate.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\bin\Debug\net6.0\ref\delegate.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\bin\Debug\net6.0\delegate.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\delegate.csproj.AssemblyReference.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\delegate.AssemblyInfoInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\delegate.AssemblyInfo.cs
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\delegate.csproj.CoreCompileInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\delegate.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\ref\delegate.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\delegate.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\delegate\delegate\obj\Debug\net6.0\delegate.genruntimeconfig.cache

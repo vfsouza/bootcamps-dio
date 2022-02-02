@@ -1,0 +1,15 @@
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\bin\Debug\net6.0\colecoes.exe
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\bin\Debug\net6.0\colecoes.deps.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\bin\Debug\net6.0\colecoes.runtimeconfig.json
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\bin\Debug\net6.0\colecoes.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\bin\Debug\net6.0\ref\colecoes.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\bin\Debug\net6.0\colecoes.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\colecoes.csproj.AssemblyReference.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\colecoes.AssemblyInfoInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\colecoes.AssemblyInfo.cs
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\colecoes.csproj.CoreCompileInputs.cache
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\colecoes.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\ref\colecoes.dll
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\colecoes.pdb
+D:\Projetos\bootcamps-dio\2021\LocalizaLabs-dotNET-Developer-2\exercicios\colecoes\colecoes\obj\Debug\net6.0\colecoes.genruntimeconfig.cache
